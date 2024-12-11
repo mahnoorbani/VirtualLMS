@@ -15,12 +15,12 @@ To install **VirtualLMS**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mahnoorbani/Mah-Trendify-Ecommerce-website.git
+sudo git clone https://github.com/mahnoorbani/VirtualLMS.git
 
 Windows:
 
 ```bash
-git clone https://github.com/mahnoorbani/Mah-Trendify-Ecommerce-website.git
+git clone https://github.com/mahnoorbani/VirtualLMS.git
 
 ## Contact
 
